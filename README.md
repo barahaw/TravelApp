@@ -110,3 +110,49 @@ travel-app/
 - Implement a database for saving trips.
 - Enhance UI/UX with animations and responsiveness.
 - Optimize performance using lazy loading.
+
+## 🛠 Node.js Version
+
+This project uses Node.js version `v20.17.0`.
+
+## Project Dependencies
+
+This project requires the following dependencies to run:
+
+### Dependencies
+
+- `body-parser@^1.20.2`
+- `cors@^2.8.5`
+- `dotenv@^16.4.7`
+- `express@^4.19.2`
+- `webpack@^5.94.0`
+
+### Dev Dependencies
+
+- `@babel/core@^7.5.4`
+- `@babel/preset-env@^7.5.4`
+- `@testing-library/dom@^10.4.0`
+- `@testing-library/jest-dom@^6.5.0`
+- `babel-loader@^8.0.6`
+- `body-parser@^1.20.2`
+- `clean-webpack-plugin@^4.0.0`
+- `cors@^2.8.5`
+- `css-loader@^3.6.0`
+- `css-minimizer-webpack-plugin@^7.0.0`
+- `dotenv@^16.4.7`
+- `express@^4.19.2`
+- `file-loader@^6.2.0`
+- `html-webpack-plugin@^5.6.0`
+- `jest-environment-jsdom@^29.7.0`
+- `jest-fetch-mock@^3.0.3`
+- `jest@^29.7.0`
+- `mini-css-extract-plugin@^2.9.1`
+- `sass-loader@^10.0.0`
+- `sass@^1.56.0`
+- `style-loader@^0.23.1`
+- `supertest@^7.0.0`
+- `terser-webpack-plugin@^5.3.10`
+- `webpack-cli@^5.1.4`
+- `webpack-dev-server@^5.0.4`
+- `webpack@^5.94.0`
+- `workbox-webpack-plugin@^7.1.0`
